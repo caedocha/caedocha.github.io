@@ -11,6 +11,7 @@ Here is a partial list of the books I've read lately:
   <li>Primavera con una esquina rota - Mario Benedetti</li>
   <li>Meditations - Marcus Aurelius</li>
   <li>Practical Object-Oriented Design In Ruby - Sandy Metz</li>
+  <li>Watchmen - Allan Moore, Dave Gibbons</li>
 </ul>
 
 <h3> 2016 </h3>
