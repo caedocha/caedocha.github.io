@@ -13,6 +13,7 @@ Here is a partial list of the books I've read lately:
   <li>Practical Object-Oriented Design In Ruby - Sandy Metz</li>
   <li>Watchmen - Allan Moore, Dave Gibbons</li>
   <li>Demian - Hermann Hesse</li>
+  <li>Moral Epistles - Seneca</li>
 </ul>
 
 <h3> 2016 </h3>
