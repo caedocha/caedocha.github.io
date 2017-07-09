@@ -14,6 +14,10 @@ Here is a partial list of the books I've read lately:
   <li>Watchmen - Allan Moore, Dave Gibbons</li>
   <li>Demian - Hermann Hesse</li>
   <li>Moral Epistles - Seneca</li>
+  <li>Hooked - Nir Eyal</li>
+  <li>Surely You're Joking, Mr. Feynman - Richard Feynman</li>
+  <li>99 Bottles Of OOP - Sandi Metz & Katrina Owen</li>
+  <li>Limon Blues - Anacristina Rossi</li>
 </ul>
 
 <h3> 2016 </h3>
