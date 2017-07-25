@@ -8,6 +8,7 @@ Here is a partial list of the books I've read lately:
 <h3> 2017 </h3>
 
 <ul class="book-list">
+  <li>Extreme Ownership - Jocko Willink & Leif Babin</li>
   <li>Primavera con una esquina rota - Mario Benedetti</li>
   <li>Meditations - Marcus Aurelius</li>
   <li>Practical Object-Oriented Design In Ruby - Sandy Metz</li>
