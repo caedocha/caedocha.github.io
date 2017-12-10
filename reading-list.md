@@ -19,6 +19,8 @@ Here is a partial list of the books I've read lately:
   <li>Surely You're Joking, Mr. Feynman - Richard Feynman</li>
   <li>99 Bottles Of OOP - Sandi Metz & Katrina Owen</li>
   <li>Limon Blues - Anacristina Rossi</li>
+  <li>How Asia Works - Joe Studwell</li>
+  <li>Big Sure - Jack Kerouac</li>
 </ul>
 
 <h3> 2016 </h3>
