@@ -5,6 +5,14 @@ layout: page
 
 Here is a partial list of the books I've read lately:
 
+<h3> 2018 </h3>
+
+<ul class="book-list">
+  <li>The Metamorphosis - Franz Kafka</li>
+</ul>
+
+<ul class="book-list">
+
 <h3> 2017 </h3>
 
 <ul class="book-list">
