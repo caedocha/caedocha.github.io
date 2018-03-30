@@ -9,6 +9,7 @@ Here is a partial list of the books I've read lately:
 
 <ul class="book-list">
   <li>The Metamorphosis - Franz Kafka</li>
+  <li>Nudge - Richard Thaler & Cass Sunstein</li>
 </ul>
 
 <h3> 2017 </h3>
