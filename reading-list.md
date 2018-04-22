@@ -10,6 +10,7 @@ Here is a partial list of the books I've read lately:
 <ul class="book-list">
   <li>The Metamorphosis - Franz Kafka</li>
   <li>Nudge - Richard Thaler & Cass Sunstein</li>
+  <li>Homage to Catalonia - George Orwell</li>
 </ul>
 
 <h3> 2017 </h3>
