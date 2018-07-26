@@ -144,7 +144,7 @@ Instead of using `--force` or `-f`, we can use `--force-with-lease` to be more c
 our push won't work because now our changes are out-of-date in relation to the upstream branch.
 
 
-The final step is to wrap the script in a function for easy of use:
+The final step is to wrap the script in a function for ease of use:
 
 
 ```
