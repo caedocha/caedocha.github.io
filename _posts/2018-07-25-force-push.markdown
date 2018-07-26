@@ -143,16 +143,22 @@ Instead of using `--force` or `-f`, we can use `--force-with-lease` to be more c
 `force-with-lease` will only forcibly push our changes if the local and upstream branches are in-sync. If someone else pushed their changes, 
 our push won't work because now our changes are out-of-date in relation to the upstream branch.
 
+
+The final step is to wrap the script in a function for easy of use:
+
+
 ```
-RED='\033[1;31m';
-GREEN='\033[1;32m';
-NOCOLOR='\033[0m';
-current=`git branch | grep "*" | awk '{print $2}'`;
-if [[ $current = *"production-"* || $current = "master" ]]; then
-  echo -e "I can't force push ${RED}master${NOCOLOR} and ${RED}production${NOCOLOR} branches.\n";
-else
-  echo -e "Force pushing ${GREEN}$current${NOCOLOR} branch.\n";
-  git push --force-with-lease origin $current;
-fi
+force_push() {
+  RED='\033[1;31m';
+  GREEN='\033[1;32m';
+  NOCOLOR='\033[0m';
+  current=`git branch | grep "*" | awk '{print $2}'`;
+  if [[ $current = *"production-"* || $current = "master" ]]; then
+    echo -e "I can't force push ${RED}master${NOCOLOR} and ${RED}production${NOCOLOR} branches.\n";
+  else
+    echo -e "Force pushing ${GREEN}$current${NOCOLOR} branch.\n";
+    git push --force-with-lease origin $current;
+  fi
+}
 ```
 
