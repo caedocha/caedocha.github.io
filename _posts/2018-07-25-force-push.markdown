@@ -22,7 +22,7 @@ For my first post, I will walk you through the process of writing a small Bash s
 I use feature branches, independent from the master branch, to work on a new feature or to fix a bug.
 I like to squash my commits into a single one before merging them to the master branch to keep the commit history clean.
 However, this causes a conflict between my local branch and the upstream one. I can force push my local changes to overwrite 
-the upstream branch with `git push -f origin MY_FEATUER_BRANCH`.
+the upstream branch with `git push -f origin MY_FEATURE_BRANCH`.
 
 This has become a very repetitive and tedious process so I decided to write a small script to automate it.
 
