@@ -91,8 +91,8 @@ Assuming there are multiple branches with the prefix `production-`, this new add
 ## Output Coloring
 
 I like to have visual queues in the tools I work with. So I thought adding some color to the output of the script would be helpful.
-When the script pushes the branch successfully, I will display a feedback message in bright green including the branch name.
-When the script tries to push a blacklisted branch, I will display a feedback message in bright red.
+When the script pushes the branch successfully, it will display a feedback message in bright green including the branch name.
+When the script tries to push a blacklisted branch, it will display a feedback message in bright red.
 Bash allows a certain degree of text formatting through the ANSI escape codes that I wasn't aware of. For now, I just need to add some colors but further styling
 is posible.
 
