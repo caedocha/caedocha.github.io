@@ -13,6 +13,7 @@ Here is a partial list of the books I've read lately:
   <li>Homage to Catalonia - George Orwell</li>
   <li>Creativity, Inc. - Ed Catmull & Amy Wallace</li>
   <li>La Fiesta Del Chivo - Mario Vargas Llosa</li>
+  <li>The Passionate Programmer - Chad Fowler</li>
 </ul>
 
 <h3> 2017 </h3>
