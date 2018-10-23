@@ -15,6 +15,7 @@ Here is a partial list of the books I've read lately:
   <li>La Fiesta Del Chivo - Mario Vargas Llosa</li>
   <li>The Passionate Programmer - Chad Fowler</li>
   <li>Meditations of a Tibetan Tantric Abbot - Kensur Lekden & Jeffrey Hopkins</li>
+  <li>Deep Work - Cal Newport</li>
 </ul>
 
 <h3> 2017 </h3>
