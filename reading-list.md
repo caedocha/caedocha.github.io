@@ -8,6 +8,7 @@ Here is a partial list of the books I've read lately:
 <h3> 2019 </h3>
 
 <ul class="book-list">
+  <li>On Writing Well - William Zinsser</li>
   <li>A Thousand Sons - Graham McNeill</li>
   <li>Outliers - Malcolm Gladwell</li>
 </ul>
