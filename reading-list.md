@@ -5,6 +5,13 @@ layout: page
 
 Here is a partial list of the books I've read lately:
 
+<h3> 2019 </h3>
+
+<ul class="book-list">
+  <li>A Thousand Sons - Graham McNeill</li>
+  <li>Outliers - Malcolm Gladwell</li>
+</ul>
+
 <h3> 2018 </h3>
 
 <ul class="book-list">
