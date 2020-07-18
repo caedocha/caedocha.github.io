@@ -8,6 +8,10 @@ Here is a partial list of the books I've read lately:
 <h3> 2019 </h3>
 
 <ul class="book-list">
+  <li>Talking With Tech Leads - Patrick Kua</li>
+  <li>Alive At Work - Daniel Cable</li>
+  <li>The Rise Of Theodore Roosevelt - Edmund Morris</li>
+  <li>Benjamin Franklin - Walter Issacson</li>
   <li>On Writing Well - William Zinsser</li>
   <li>A Thousand Sons - Graham McNeill</li>
   <li>Outliers - Malcolm Gladwell</li>
