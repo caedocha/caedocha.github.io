@@ -14,13 +14,13 @@ description: "My thoughts about ownership at work"
 
 ## Introduction
 
-Recently, I became my team’s technical lead. A lot of new challenges arose with the change of roles. Among them: leading people, making sure that the team is working well, that my teammates are motivated and our projects get completed the best way possible.
+I recently became the technical lead of my team. With this change of role, many new challenges have arisen. Among them include leading people, making sure the team is working well together, and that my teammates are motivated to complete our projects in the best way possible.
 
-Just a few days after assuming the role, I decided to have coaching sessions with the senior developers. I thought that there were interesting topics to talk about that may help us be better as individuals contributors and as a team. Topics such as ownership, understand the big picture, haggling, craftsmanship, writing skills, among others.
+A few days after assuming the role, I decided to have coaching sessions with the senior developers. We discussed many interesting topics that could help us become a better team, as well as better individual contributors. These included ownership, understanding the big picture, haggling, craftsmanship, writing skills, and more.
 
-The first topic we discussed was ownership. To me, ownership is the foundation that allows people to be in control of their day-to-day job and their career development. Things flow much easier if you are mindful of the role ownership plays in your work.
+Let's start with ownership. To me, ownership is the foundation that allows people to be in control of their day-to-day job and career development. Things flow much better if you are mindful of the role ownership plays in your work.
 
-It is like being the captain of your boat. You are in charge of making sure the boat remains afloat, pick the course and then, taking it there. If a storm breaks, you are also responsible to take it to a safe harbor or go down with it if you hit the rocks.
+Think of it like being the captain of a ship. You would be directly in charge of selecting a destination, making sure the ship stays afloat, and ultimately navigating there. On the other side of the coin, if a storm breaks, you would also be responsible for finding a safe harbor... or going down with the ship should things take a worse turn.
 
 Here are a few tips that I have learned and used to nourish my sense of ownership. Just a word of caution: I still have a lot to learn and this is my humble opinion. I just thought writing this essay would be an interesting challenge for me.
 
